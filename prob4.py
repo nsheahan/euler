@@ -1,3 +1,5 @@
+#http://projecteuler.net/problem=4
+
 def ispalindrome(num):
     strnum = str(num)
     if strnum == strnum[::-1]:
