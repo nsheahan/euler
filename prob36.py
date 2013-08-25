@@ -1,3 +1,4 @@
+#http://projecteuler.net/problem=36
 def cleanBin(num):
 
     #pythons builtin bin() function outputs a string
