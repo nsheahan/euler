@@ -1,7 +1,4 @@
 #http://projecteuler.net/problem=3
-from math import sqrt
-
-
 def factor(num):
     if num == 1:
         return [1]
